@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# sets up web servers for innovation of web_static
+# sets up web servers for creation of web_static
 
 sudo apt-get -y update
 sudo apt-get -y upgrade
